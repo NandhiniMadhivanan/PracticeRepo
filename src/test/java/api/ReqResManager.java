@@ -15,6 +15,7 @@ public class ReqResManager {
                 .setBasePath(path)
                 .setContentType("application/json")
                 .setAccept("application/json")
+                .addHeader("Cookie","jljoiulkhkhlkhlhlkhhkhk")
                 .build();
     }
 
